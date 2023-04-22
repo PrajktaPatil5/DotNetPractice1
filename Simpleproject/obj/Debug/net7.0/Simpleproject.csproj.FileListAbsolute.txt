@@ -1,0 +1,15 @@
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/bin/Debug/net7.0/Simpleproject
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/bin/Debug/net7.0/Simpleproject.deps.json
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/bin/Debug/net7.0/Simpleproject.runtimeconfig.json
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/bin/Debug/net7.0/Simpleproject.dll
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/bin/Debug/net7.0/Simpleproject.pdb
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/Simpleproject.csproj.AssemblyReference.cache
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/Simpleproject.GeneratedMSBuildEditorConfig.editorconfig
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/Simpleproject.AssemblyInfoInputs.cache
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/Simpleproject.AssemblyInfo.cs
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/Simpleproject.csproj.CoreCompileInputs.cache
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/Simpleproject.dll
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/refint/Simpleproject.dll
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/Simpleproject.pdb
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/Simpleproject.genruntimeconfig.cache
+/home/prajkta.patil/Desktop/DotNet/Simpleproject/obj/Debug/net7.0/ref/Simpleproject.dll
