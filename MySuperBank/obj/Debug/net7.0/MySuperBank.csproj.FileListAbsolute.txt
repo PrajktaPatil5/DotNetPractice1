@@ -1,0 +1,15 @@
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/MySuperBank.csproj.AssemblyReference.cache
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/MySuperBank.AssemblyInfoInputs.cache
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/MySuperBank.AssemblyInfo.cs
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/MySuperBank.csproj.CoreCompileInputs.cache
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/bin/Debug/net7.0/MySuperBank
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/bin/Debug/net7.0/MySuperBank.deps.json
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/bin/Debug/net7.0/MySuperBank.runtimeconfig.json
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/bin/Debug/net7.0/MySuperBank.dll
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/bin/Debug/net7.0/MySuperBank.pdb
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/MySuperBank.dll
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/refint/MySuperBank.dll
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/MySuperBank.pdb
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/MySuperBank.genruntimeconfig.cache
+/home/prajkta.patil/Desktop/DotNet/MySuperBank/obj/Debug/net7.0/ref/MySuperBank.dll
