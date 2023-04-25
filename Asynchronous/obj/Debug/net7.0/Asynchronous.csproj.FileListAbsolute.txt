@@ -1,0 +1,15 @@
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/bin/Debug/net7.0/Asynchronous
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/bin/Debug/net7.0/Asynchronous.deps.json
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/bin/Debug/net7.0/Asynchronous.runtimeconfig.json
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/bin/Debug/net7.0/Asynchronous.dll
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/bin/Debug/net7.0/Asynchronous.pdb
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/Asynchronous.csproj.AssemblyReference.cache
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/Asynchronous.AssemblyInfoInputs.cache
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/Asynchronous.AssemblyInfo.cs
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/Asynchronous.csproj.CoreCompileInputs.cache
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/Asynchronous.dll
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/refint/Asynchronous.dll
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/Asynchronous.pdb
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/Asynchronous.genruntimeconfig.cache
+/home/prajkta.patil/Desktop/DotNet/Asynchronous/obj/Debug/net7.0/ref/Asynchronous.dll
