@@ -1,0 +1,5 @@
+/home/prajkta.patil/Desktop/DotNet/MultiThreading/obj/Debug/net7.0/MultiThreading.csproj.AssemblyReference.cache
+/home/prajkta.patil/Desktop/DotNet/MultiThreading/obj/Debug/net7.0/MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/prajkta.patil/Desktop/DotNet/MultiThreading/obj/Debug/net7.0/MultiThreading.AssemblyInfoInputs.cache
+/home/prajkta.patil/Desktop/DotNet/MultiThreading/obj/Debug/net7.0/MultiThreading.AssemblyInfo.cs
+/home/prajkta.patil/Desktop/DotNet/MultiThreading/obj/Debug/net7.0/MultiThreading.csproj.CoreCompileInputs.cache
